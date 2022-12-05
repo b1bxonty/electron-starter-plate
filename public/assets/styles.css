@@ -1,0 +1,23 @@
+/* styles.css */
+html {
+    background-color: brown;
+    color: white;
+    font-size: larger;
+}
+.container {
+    font-family: arial;
+    font-size: 24px;
+    margin: 25px;
+    width: 350px;
+    height: 200px;
+    outline: dashed 1px black;
+    /* Center vertically and horizontally */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .center {
+    margin: auto;
+    padding: 10px;
+    margin-top: 30px;
+  }
